@@ -1,0 +1,950 @@
+State,County,Year,Days with AQI
+Alabama,Baldwin,2023,170
+Alabama,Clay,2023,155
+Alabama,DeKalb,2023,212
+Alabama,Elmore,2023,118
+Alabama,Etowah,2023,181
+Alabama,Jefferson,2023,182
+Alabama,Madison,2023,181
+Alabama,Mobile,2023,178
+Alabama,Montgomery,2023,150
+Alabama,Morgan,2023,181
+Alabama,Russell,2023,176
+Alabama,Shelby,2023,120
+Alabama,Sumter,2023,179
+Alabama,Tuscaloosa,2023,181
+Alaska,Anchorage ,2023,182
+Alaska,Denali ,2023,220
+Alaska,Fairbanks North Star ,2023,182
+Alaska,Juneau ,2023,180
+Alaska,Matanuska-Susitna ,2023,176
+Arizona,Apache,2023,272
+Arizona,Cochise,2023,273
+Arizona,Coconino,2023,273
+Arizona,Gila,2023,273
+Arizona,La Paz,2023,272
+Arizona,Maricopa,2023,274
+Arizona,Mohave,2023,265
+Arizona,Navajo,2023,271
+Arizona,Pima,2023,273
+Arizona,Pinal,2023,273
+Arizona,Santa Cruz,2023,268
+Arizona,Yavapai,2023,272
+Arizona,Yuma,2023,273
+Arkansas,Arkansas,2023,90
+Arkansas,Ashley,2023,89
+Arkansas,Clark,2023,210
+Arkansas,Crittenden,2023,272
+Arkansas,Garland,2023,76
+Arkansas,Jackson,2023,91
+Arkansas,Newton,2023,273
+Arkansas,Polk,2023,212
+Arkansas,Pulaski,2023,274
+Arkansas,Union,2023,90
+Arkansas,Washington,2023,273
+California,Alameda,2023,213
+California,Amador,2023,150
+California,Butte,2023,181
+California,Calaveras,2023,181
+California,Colusa,2023,269
+California,Contra Costa,2023,213
+California,Del Norte,2023,163
+California,El Dorado,2023,181
+California,Fresno,2023,243
+California,Glenn,2023,149
+California,Humboldt,2023,233
+California,Imperial,2023,191
+California,Inyo,2023,273
+California,Kern,2023,240
+California,Kings,2023,212
+California,Lake,2023,104
+California,Los Angeles,2023,212
+California,Marin,2023,213
+California,Mariposa,2023,243
+California,Mendocino,2023,90
+California,Mono,2023,181
+California,Monterey,2023,213
+California,Nevada,2023,181
+California,Orange,2023,182
+California,Placer,2023,212
+California,Plumas,2023,181
+California,Riverside,2023,243
+California,Sacramento,2023,241
+California,San Benito,2023,242
+California,San Bernardino,2023,243
+California,San Diego,2023,271
+California,San Francisco,2023,213
+California,San Joaquin,2023,138
+California,San Luis Obispo,2023,181
+California,San Mateo,2023,213
+California,Santa Barbara,2023,182
+California,Santa Clara,2023,213
+California,Santa Cruz,2023,212
+California,Shasta,2023,242
+California,Siskiyou,2023,90
+California,Solano,2023,218
+California,Sonoma,2023,213
+California,Stanislaus,2023,167
+California,Sutter,2023,149
+California,Tehama,2023,149
+California,Trinity,2023,124
+California,Tulare,2023,243
+California,Tuolumne,2023,151
+California,Ventura,2023,212
+California,Yolo,2023,192
+Colorado,Adams,2023,267
+Colorado,Arapahoe,2023,249
+Colorado,Archuleta,2023,248
+Colorado,Boulder,2023,249
+Colorado,Clear Creek,2023,240
+Colorado,Denver,2023,267
+Colorado,Douglas,2023,251
+Colorado,El Paso,2023,248
+Colorado,Fremont,2023,80
+Colorado,Garfield,2023,90
+Colorado,Gilpin,2023,212
+Colorado,Gunnison,2023,208
+Colorado,Jefferson,2023,243
+Colorado,La Plata,2023,244
+Colorado,Larimer,2023,244
+Colorado,Mesa,2023,231
+Colorado,Montezuma,2023,273
+Colorado,Pitkin,2023,68
+Colorado,Prowers,2023,238
+Colorado,Pueblo,2023,245
+Colorado,Rio Blanco,2023,181
+Colorado,Routt,2023,236
+Colorado,San Miguel,2023,76
+Colorado,Weld,2023,249
+Connecticut,Fairfield,2023,181
+Connecticut,Hartford,2023,182
+Connecticut,Litchfield,2023,180
+Connecticut,Middlesex,2023,118
+Connecticut,New Haven,2023,181
+Connecticut,New London,2023,181
+Connecticut,Tolland,2023,121
+Connecticut,Windham,2023,211
+Country Of Mexico,SONORA,2023,273
+District Of Columbia,District of Columbia,2023,244
+Florida,Alachua,2023,181
+Florida,Baker,2023,181
+Florida,Bay,2023,181
+Florida,Brevard,2023,181
+Florida,Broward,2023,182
+Florida,Citrus,2023,180
+Florida,Collier,2023,180
+Florida,Columbia,2023,180
+Florida,Duval,2023,182
+Florida,Escambia,2023,181
+Florida,Flagler,2023,181
+Florida,Hamilton,2023,151
+Florida,Highlands,2023,179
+Florida,Hillsborough,2023,182
+Florida,Holmes,2023,181
+Florida,Indian River,2023,211
+Florida,Lake,2023,180
+Florida,Lee,2023,181
+Florida,Leon,2023,181
+Florida,Liberty,2023,198
+Florida,Manatee,2023,179
+Florida,Marion,2023,181
+Florida,Martin,2023,181
+Florida,Miami-Dade,2023,182
+Florida,Okaloosa,2023,57
+Florida,Orange,2023,182
+Florida,Osceola,2023,175
+Florida,Palm Beach,2023,181
+Florida,Pasco,2023,181
+Florida,Pinellas,2023,182
+Florida,Polk,2023,181
+Florida,Putnam,2023,181
+Florida,Santa Rosa,2023,181
+Florida,Sarasota,2023,181
+Florida,Seminole,2023,181
+Florida,St. Lucie,2023,177
+Florida,Volusia,2023,181
+Florida,Wakulla,2023,181
+Georgia,Bibb,2023,229
+Georgia,Chatham,2023,228
+Georgia,Chattooga,2023,152
+Georgia,Clarke,2023,241
+Georgia,Clayton,2023,70
+Georgia,Cobb,2023,171
+Georgia,Coffee,2023,66
+Georgia,Columbia,2023,149
+Georgia,Dawson,2023,183
+Georgia,DeKalb,2023,243
+Georgia,Dougherty,2023,242
+Georgia,Douglas,2023,184
+Georgia,Floyd,2023,220
+Georgia,Fulton,2023,243
+Georgia,Glynn,2023,271
+Georgia,Gwinnett,2023,243
+Georgia,Hall,2023,241
+Georgia,Henry,2023,242
+Georgia,Houston,2023,243
+Georgia,Lowndes,2023,241
+Georgia,Murray,2023,151
+Georgia,Muscogee,2023,273
+Georgia,Pike,2023,208
+Georgia,Richmond,2023,241
+Georgia,Rockdale,2023,150
+Georgia,Sumter,2023,153
+Georgia,Walker,2023,242
+Georgia,Washington,2023,238
+Hawaii,Hawaii,2023,226
+Hawaii,Honolulu,2023,182
+Hawaii,Maui,2023,163
+Idaho,Ada,2023,182
+Idaho,Bannock,2023,181
+Idaho,Benewah,2023,181
+Idaho,Blaine,2023,163
+Idaho,Boise,2023,181
+Idaho,Bonner,2023,179
+Idaho,Bonneville,2023,173
+Idaho,Butte,2023,238
+Idaho,Canyon,2023,180
+Idaho,Franklin,2023,181
+Idaho,Idaho,2023,212
+Idaho,Kootenai,2023,177
+Idaho,Latah,2023,181
+Idaho,Lemhi,2023,179
+Idaho,Nez Perce,2023,181
+Idaho,Shoshone,2023,181
+Idaho,Twin Falls,2023,164
+Idaho,Valley,2023,176
+Illinois,Adams,2023,214
+Illinois,Champaign,2023,273
+Illinois,Clark,2023,236
+Illinois,Cook,2023,274
+Illinois,DuPage,2023,273
+Illinois,Effingham,2023,211
+Illinois,Hamilton,2023,273
+Illinois,Jersey,2023,273
+Illinois,Jo Daviess,2023,206
+Illinois,Kane,2023,236
+Illinois,Lake,2023,212
+Illinois,Macon,2023,273
+Illinois,Macoupin,2023,273
+Illinois,Madison,2023,271
+Illinois,McHenry,2023,273
+Illinois,McLean,2023,273
+Illinois,Peoria,2023,248
+Illinois,Randolph,2023,273
+Illinois,Rock Island,2023,273
+Illinois,Saint Clair,2023,273
+Illinois,Sangamon,2023,273
+Illinois,Will,2023,273
+Illinois,Winnebago,2023,273
+Indiana,Allen,2023,239
+Indiana,Bartholomew,2023,267
+Indiana,Boone,2023,241
+Indiana,Brown,2023,234
+Indiana,Carroll,2023,237
+Indiana,Clark,2023,243
+Indiana,Delaware,2023,271
+Indiana,Dubois,2023,117
+Indiana,Elkhart,2023,273
+Indiana,Floyd,2023,228
+Indiana,Greene,2023,243
+Indiana,Hamilton,2023,243
+Indiana,Hendricks,2023,238
+Indiana,Henry,2023,226
+Indiana,Howard,2023,243
+Indiana,Knox,2023,212
+Indiana,LaPorte,2023,243
+Indiana,Lake,2023,273
+Indiana,Madison,2023,243
+Indiana,Marion,2023,244
+Indiana,Monroe,2023,273
+Indiana,Perry,2023,239
+Indiana,Porter,2023,243
+Indiana,Posey,2023,238
+Indiana,Shelby,2023,241
+Indiana,Spencer,2023,69
+Indiana,St. Joseph,2023,272
+Indiana,Tippecanoe,2023,231
+Indiana,Vanderburgh,2023,273
+Indiana,Vigo,2023,243
+Indiana,Wabash,2023,211
+Indiana,Warrick,2023,243
+Indiana,Whitley,2023,241
+Iowa,Black Hawk,2023,269
+Iowa,Bremer,2023,205
+Iowa,Cerro Gordo,2023,60
+Iowa,Clinton,2023,273
+Iowa,Harrison,2023,208
+Iowa,Johnson,2023,273
+Iowa,Lee,2023,60
+Iowa,Linn,2023,273
+Iowa,Montgomery,2023,272
+Iowa,Muscatine,2023,273
+Iowa,Palo Alto,2023,273
+Iowa,Polk,2023,273
+Iowa,Pottawattamie,2023,82
+Iowa,Scott,2023,274
+Iowa,Van Buren,2023,271
+Iowa,Woodbury,2023,78
+Kansas,Ford,2023,180
+Kansas,Johnson,2023,181
+Kansas,Leavenworth,2023,180
+Kansas,Neosho,2023,181
+Kansas,Sedgwick,2023,181
+Kansas,Shawnee,2023,179
+Kansas,Sherman,2023,150
+Kansas,Sumner,2023,181
+Kansas,Trego,2023,181
+Kansas,Wyandotte,2023,181
+Kentucky,Bell,2023,181
+Kentucky,Boone,2023,122
+Kentucky,Boyd,2023,186
+Kentucky,Bullitt,2023,120
+Kentucky,Campbell,2023,189
+Kentucky,Carter,2023,186
+Kentucky,Christian,2023,181
+Kentucky,Daviess,2023,181
+Kentucky,Edmonson,2023,242
+Kentucky,Fayette,2023,187
+Kentucky,Greenup,2023,118
+Kentucky,Hancock,2023,122
+Kentucky,Hardin,2023,186
+Kentucky,Jefferson,2023,182
+Kentucky,Jessamine,2023,122
+Kentucky,Livingston,2023,122
+Kentucky,McCracken,2023,171
+Kentucky,Morgan,2023,212
+Kentucky,Oldham,2023,122
+Kentucky,Perry,2023,181
+Kentucky,Pike,2023,180
+Kentucky,Pulaski,2023,179
+Kentucky,Simpson,2023,121
+Kentucky,Warren,2023,181
+Kentucky,Washington,2023,207
+Louisiana,Ascension,2023,271
+Louisiana,Bossier,2023,268
+Louisiana,Caddo,2023,263
+Louisiana,Calcasieu,2023,273
+Louisiana,East Baton Rouge,2023,274
+Louisiana,Iberville,2023,273
+Louisiana,Jefferson,2023,271
+Louisiana,Lafayette,2023,273
+Louisiana,Lafourche,2023,273
+Louisiana,Livingston,2023,272
+Louisiana,Orleans,2023,274
+Louisiana,Ouachita,2023,266
+Louisiana,Pointe Coupee,2023,270
+Louisiana,Rapides,2023,59
+Louisiana,St. Bernard,2023,273
+Louisiana,St. James,2023,262
+Louisiana,St. John the Baptist,2023,266
+Louisiana,St. Martin,2023,272
+Louisiana,St. Tammany,2023,273
+Louisiana,Tangipahoa,2023,63
+Louisiana,Terrebonne,2023,55
+Louisiana,West Baton Rouge,2023,270
+Maine,Androscoggin,2023,271
+Maine,Aroostook,2023,273
+Maine,Cumberland,2023,273
+Maine,Hancock,2023,274
+Maine,Kennebec,2023,206
+Maine,Knox,2023,213
+Maine,Oxford,2023,273
+Maine,Penobscot,2023,270
+Maine,Sagadahoc,2023,197
+Maine,Washington,2023,272
+Maine,York,2023,238
+Maryland,Anne Arundel,2023,222
+Maryland,Baltimore,2023,273
+Maryland,Baltimore (City),2023,212
+Maryland,Calvert,2023,122
+Maryland,Carroll,2023,121
+Maryland,Cecil,2023,273
+Maryland,Charles,2023,120
+Maryland,Dorchester,2023,212
+Maryland,Frederick,2023,111
+Maryland,Garrett,2023,266
+Maryland,Harford,2023,273
+Maryland,Howard,2023,272
+Maryland,Kent,2023,181
+Maryland,Montgomery,2023,179
+Maryland,Prince George's,2023,273
+Maryland,Washington,2023,268
+Massachusetts,Barnstable,2023,173
+Massachusetts,Berkshire,2023,181
+Massachusetts,Bristol,2023,181
+Massachusetts,Dukes,2023,179
+Massachusetts,Essex,2023,181
+Massachusetts,Franklin,2023,181
+Massachusetts,Hampden,2023,181
+Massachusetts,Hampshire,2023,181
+Massachusetts,Middlesex,2023,181
+Massachusetts,Norfolk,2023,181
+Massachusetts,Plymouth,2023,181
+Massachusetts,Suffolk,2023,182
+Massachusetts,Worcester,2023,182
+Michigan,Allegan,2023,181
+Michigan,Bay,2023,181
+Michigan,Benzie,2023,119
+Michigan,Berrien,2023,122
+Michigan,Cass,2023,122
+Michigan,Clinton,2023,122
+Michigan,Genesee,2023,180
+Michigan,Huron,2023,122
+Michigan,Ingham,2023,179
+Michigan,Kalamazoo,2023,176
+Michigan,Kent,2023,182
+Michigan,Lenawee,2023,180
+Michigan,Macomb,2023,181
+Michigan,Manistee,2023,125
+Michigan,Mason,2023,119
+Michigan,Missaukee,2023,178
+Michigan,Monroe,2023,40
+Michigan,Muskegon,2023,121
+Michigan,Oakland,2023,135
+Michigan,Ottawa,2023,179
+Michigan,Schoolcraft,2023,178
+Michigan,St. Clair,2023,180
+Michigan,Tuscola,2023,210
+Michigan,Washtenaw,2023,212
+Michigan,Wayne,2023,182
+Michigan,Wexford,2023,211
+Minnesota,Anoka,2023,181
+Minnesota,Becker,2023,181
+Minnesota,Beltrami,2023,177
+Minnesota,Carlton,2023,178
+Minnesota,Cass,2023,176
+Minnesota,Cook,2023,168
+Minnesota,Crow Wing,2023,181
+Minnesota,Dakota,2023,182
+Minnesota,Goodhue,2023,116
+Minnesota,Hennepin,2023,182
+Minnesota,Lake,2023,181
+Minnesota,Lyon,2023,181
+Minnesota,Mille Lacs,2023,116
+Minnesota,Olmsted,2023,181
+Minnesota,Ramsey,2023,181
+Minnesota,Saint Louis,2023,242
+Minnesota,Scott,2023,181
+Minnesota,Stearns,2023,181
+Minnesota,Washington,2023,122
+Minnesota,Wright,2023,174
+Mississippi,Bolivar,2023,180
+Mississippi,DeSoto,2023,181
+Mississippi,Forrest,2023,181
+Mississippi,Hancock,2023,181
+Mississippi,Harrison,2023,181
+Mississippi,Hinds,2023,182
+Mississippi,Jackson,2023,180
+Mississippi,Lauderdale,2023,121
+Mississippi,Lee,2023,122
+Mississippi,Yalobusha,2023,203
+Missouri,Andrew,2023,91
+Missouri,Boone,2023,91
+Missouri,Buchanan,2023,148
+Missouri,Callaway,2023,91
+Missouri,Cass,2023,91
+Missouri,Cedar,2023,148
+Missouri,Clay,2023,136
+Missouri,Clinton,2023,91
+Missouri,Greene,2023,150
+Missouri,Jackson,2023,151
+Missouri,Jasper,2023,150
+Missouri,Jefferson,2023,150
+Missouri,Lincoln,2023,91
+Missouri,Monroe,2023,149
+Missouri,Perry,2023,91
+Missouri,Saint Charles,2023,91
+Missouri,Saint Louis,2023,156
+Missouri,Sainte Genevieve,2023,91
+Missouri,St. Louis City,2023,162
+Montana,Beaverhead,2023,177
+Montana,Cascade,2023,174
+Montana,Custer,2023,180
+Montana,Fergus,2023,180
+Montana,Flathead,2023,242
+Montana,Gallatin,2023,244
+Montana,Glacier,2023,170
+Montana,Hill,2023,30
+Montana,Lewis and Clark,2023,182
+Montana,Lincoln,2023,180
+Montana,Missoula,2023,180
+Montana,Phillips,2023,180
+Montana,Powder River,2023,180
+Montana,Ravalli,2023,178
+Montana,Richland,2023,180
+Montana,Sanders,2023,180
+Montana,Silver Bow,2023,181
+Montana,Yellowstone,2023,177
+Nebraska,Cass,2023,269
+Nebraska,Douglas,2023,274
+Nebraska,Gage,2023,261
+Nebraska,Hall,2023,265
+Nebraska,Knox,2023,193
+Nebraska,Lancaster,2023,140
+Nebraska,Sarpy,2023,244
+Nebraska,Scotts Bluff,2023,258
+Nebraska,Washington,2023,268
+Nevada,Carson City,2023,180
+Nevada,Churchill,2023,180
+Nevada,Clark,2023,244
+Nevada,Douglas,2023,176
+Nevada,Elko,2023,170
+Nevada,Lyon,2023,167
+Nevada,Nye,2023,181
+Nevada,Washoe,2023,182
+Nevada,White Pine,2023,238
+New Hampshire,Belknap,2023,181
+New Hampshire,Cheshire,2023,179
+New Hampshire,Coos,2023,181
+New Hampshire,Grafton,2023,181
+New Hampshire,Hillsborough,2023,182
+New Hampshire,Merrimack,2023,121
+New Hampshire,Rockingham,2023,182
+New Jersey,Atlantic,2023,181
+New Jersey,Bergen,2023,182
+New Jersey,Camden,2023,182
+New Jersey,Cumberland,2023,181
+New Jersey,Gloucester,2023,140
+New Jersey,Hudson,2023,181
+New Jersey,Hunterdon,2023,181
+New Jersey,Mercer,2023,209
+New Jersey,Middlesex,2023,181
+New Jersey,Monmouth,2023,122
+New Jersey,Morris,2023,180
+New Jersey,Ocean,2023,181
+New Jersey,Passaic,2023,169
+New Jersey,Union,2023,182
+New Jersey,Warren,2023,177
+New Mexico,Bernalillo,2023,182
+New Mexico,Dona Ana,2023,185
+New Mexico,Eddy,2023,228
+New Mexico,Lea,2023,180
+New Mexico,Luna,2023,174
+New Mexico,Rio Arriba,2023,169
+New Mexico,San Juan,2023,237
+New Mexico,Sandoval,2023,158
+New Mexico,Santa Fe,2023,180
+New Mexico,Taos,2023,177
+New Mexico,Valencia,2023,179
+New York,Albany,2023,266
+New York,Bronx,2023,244
+New York,Chautauqua,2023,241
+New York,Dutchess,2023,225
+New York,Erie,2023,273
+New York,Essex,2023,266
+New York,Hamilton,2023,233
+New York,Jefferson,2023,241
+New York,Kings,2023,269
+New York,Monroe,2023,273
+New York,Nassau,2023,273
+New York,New York,2023,273
+New York,Niagara,2023,236
+New York,Oneida,2023,259
+New York,Onondaga,2023,264
+New York,Orange,2023,264
+New York,Oswego,2023,234
+New York,Putnam,2023,238
+New York,Queens,2023,273
+New York,Richmond,2023,272
+New York,Rockland,2023,271
+New York,Saratoga,2023,243
+New York,Steuben,2023,267
+New York,Suffolk,2023,244
+New York,Tompkins,2023,211
+New York,Wayne,2023,232
+New York,Westchester,2023,271
+North Carolina,Alexander,2023,242
+North Carolina,Avery,2023,183
+North Carolina,Buncombe,2023,243
+North Carolina,Caldwell,2023,184
+North Carolina,Carteret,2023,210
+North Carolina,Caswell,2023,242
+North Carolina,Catawba,2023,232
+North Carolina,Cumberland,2023,243
+North Carolina,Davidson,2023,178
+North Carolina,Durham,2023,243
+North Carolina,Edgecombe,2023,235
+North Carolina,Forsyth,2023,212
+North Carolina,Graham,2023,182
+North Carolina,Granville,2023,183
+North Carolina,Guilford,2023,243
+North Carolina,Haywood,2023,184
+North Carolina,Johnston,2023,243
+North Carolina,Lenoir,2023,183
+North Carolina,Lincoln,2023,183
+North Carolina,Macon,2023,208
+North Carolina,Martin,2023,183
+North Carolina,Mecklenburg,2023,274
+North Carolina,Mitchell,2023,240
+North Carolina,Montgomery,2023,206
+North Carolina,New Hanover,2023,239
+North Carolina,Northampton,2023,243
+North Carolina,Person,2023,183
+North Carolina,Pitt,2023,243
+North Carolina,Rockingham,2023,184
+North Carolina,Rowan,2023,242
+North Carolina,Swain,2023,243
+North Carolina,Union,2023,184
+North Carolina,Wake,2023,244
+North Carolina,Yancey,2023,179
+North Dakota,Billings,2023,212
+North Dakota,Burke,2023,208
+North Dakota,Burleigh,2023,229
+North Dakota,Cass,2023,205
+North Dakota,Dunn,2023,212
+North Dakota,McKenzie,2023,211
+North Dakota,Mercer,2023,212
+North Dakota,Oliver,2023,212
+North Dakota,Ward,2023,212
+Ohio,Allen,2023,243
+Ohio,Ashtabula,2023,184
+Ohio,Athens,2023,122
+Ohio,Belmont,2023,232
+Ohio,Butler,2023,243
+Ohio,Clark,2023,243
+Ohio,Clermont,2023,238
+Ohio,Clinton,2023,182
+Ohio,Columbiana,2023,41
+Ohio,Cuyahoga,2023,244
+Ohio,Delaware,2023,184
+Ohio,Franklin,2023,244
+Ohio,Geauga,2023,184
+Ohio,Greene,2023,183
+Ohio,Hamilton,2023,244
+Ohio,Jefferson,2023,243
+Ohio,Knox,2023,184
+Ohio,Lake,2023,243
+Ohio,Lawrence,2023,243
+Ohio,Licking,2023,184
+Ohio,Lorain,2023,182
+Ohio,Lucas,2023,243
+Ohio,Madison,2023,184
+Ohio,Mahoning,2023,243
+Ohio,Medina,2023,241
+Ohio,Miami,2023,183
+Ohio,Montgomery,2023,241
+Ohio,Noble,2023,199
+Ohio,Portage,2023,180
+Ohio,Preble,2023,240
+Ohio,Scioto,2023,243
+Ohio,Stark,2023,243
+Ohio,Summit,2023,243
+Ohio,Trumbull,2023,242
+Ohio,Warren,2023,243
+Ohio,Washington,2023,177
+Ohio,Wood,2023,180
+Oklahoma,Adair,2023,182
+Oklahoma,Canadian,2023,188
+Oklahoma,Carter,2023,226
+Oklahoma,Cleveland,2023,242
+Oklahoma,Comanche,2023,233
+Oklahoma,Creek,2023,158
+Oklahoma,Dewey,2023,243
+Oklahoma,Jefferson,2023,150
+Oklahoma,Johnston,2023,152
+Oklahoma,Kay,2023,216
+Oklahoma,Mayes,2023,120
+Oklahoma,McClain,2023,160
+Oklahoma,Nowata,2023,234
+Oklahoma,Oklahoma,2023,244
+Oklahoma,Osage,2023,174
+Oklahoma,Ottawa,2023,118
+Oklahoma,Pittsburg,2023,241
+Oklahoma,Pontotoc,2023,181
+Oklahoma,Sequoyah,2023,205
+Oklahoma,Tulsa,2023,244
+Oregon,Baker,2023,210
+Oregon,Clackamas,2023,211
+Oregon,Columbia,2023,181
+Oregon,Crook,2023,181
+Oregon,Deschutes,2023,212
+Oregon,Grant,2023,181
+Oregon,Harney,2023,212
+Oregon,Jackson,2023,212
+Oregon,Jefferson,2023,181
+Oregon,Josephine,2023,212
+Oregon,Klamath,2023,211
+Oregon,Lake,2023,181
+Oregon,Lane,2023,273
+Oregon,Linn,2023,212
+Oregon,Marion,2023,181
+Oregon,Multnomah,2023,182
+Oregon,Umatilla,2023,212
+Oregon,Union,2023,181
+Oregon,Wallowa,2023,212
+Oregon,Wasco,2023,105
+Oregon,Washington,2023,212
+Pennsylvania,Adams,2023,244
+Pennsylvania,Allegheny,2023,182
+Pennsylvania,Armstrong,2023,183
+Pennsylvania,Beaver,2023,243
+Pennsylvania,Berks,2023,182
+Pennsylvania,Blair,2023,177
+Pennsylvania,Bradford,2023,112
+Pennsylvania,Bucks,2023,116
+Pennsylvania,Cambria,2023,244
+Pennsylvania,Centre,2023,234
+Pennsylvania,Chester,2023,180
+Pennsylvania,Cumberland,2023,183
+Pennsylvania,Dauphin,2023,208
+Pennsylvania,Delaware,2023,238
+Pennsylvania,Elk,2023,211
+Pennsylvania,Erie,2023,244
+Pennsylvania,Fayette,2023,120
+Pennsylvania,Franklin,2023,120
+Pennsylvania,Greene,2023,120
+Pennsylvania,Indiana,2023,183
+Pennsylvania,Lackawanna,2023,244
+Pennsylvania,Lancaster,2023,183
+Pennsylvania,Lawrence,2023,96
+Pennsylvania,Lebanon,2023,183
+Pennsylvania,Lehigh,2023,182
+Pennsylvania,Lycoming,2023,111
+Pennsylvania,Mercer,2023,212
+Pennsylvania,Monroe,2023,120
+Pennsylvania,Montgomery,2023,183
+Pennsylvania,Northampton,2023,228
+Pennsylvania,Philadelphia,2023,182
+Pennsylvania,Somerset,2023,212
+Pennsylvania,Tioga,2023,120
+Pennsylvania,Washington,2023,243
+Pennsylvania,Westmoreland,2023,114
+Pennsylvania,York,2023,242
+Puerto Rico,Bayamon,2023,69
+Puerto Rico,Caguas,2023,111
+Puerto Rico,Catano,2023,111
+Puerto Rico,Fajardo,2023,52
+Puerto Rico,Guayama,2023,29
+Puerto Rico,Guaynabo,2023,62
+Puerto Rico,Mayagnez,2023,130
+Puerto Rico,Ponce,2023,182
+Rhode Island,Kent,2023,181
+Rhode Island,Providence,2023,192
+Rhode Island,Washington,2023,181
+South Carolina,Aiken,2023,237
+South Carolina,Anderson,2023,208
+South Carolina,Berkeley,2023,242
+South Carolina,Charleston,2023,273
+South Carolina,Chesterfield,2023,243
+South Carolina,Darlington,2023,203
+South Carolina,Edgefield,2023,273
+South Carolina,Florence,2023,243
+South Carolina,Greenville,2023,273
+South Carolina,Horry,2023,210
+South Carolina,Lexington,2023,149
+South Carolina,Richland,2023,244
+South Carolina,Spartanburg,2023,243
+South Carolina,York,2023,242
+South Dakota,Brookings,2023,181
+South Dakota,Brown,2023,181
+South Dakota,Clay,2023,181
+South Dakota,Codington,2023,179
+South Dakota,Custer,2023,181
+South Dakota,Hughes,2023,179
+South Dakota,Jackson,2023,181
+South Dakota,Meade,2023,180
+South Dakota,Minnehaha,2023,181
+South Dakota,Pennington,2023,181
+Tennessee,Anderson,2023,117
+Tennessee,Blount,2023,244
+Tennessee,Claiborne,2023,210
+Tennessee,Davidson,2023,182
+Tennessee,DeKalb,2023,207
+Tennessee,Dyer,2023,176
+Tennessee,Hamilton,2023,273
+Tennessee,Jefferson,2023,120
+Tennessee,Knox,2023,273
+Tennessee,Lawrence,2023,180
+Tennessee,Loudon,2023,181
+Tennessee,Madison,2023,175
+Tennessee,Maury,2023,174
+Tennessee,McMinn,2023,176
+Tennessee,Montgomery,2023,176
+Tennessee,Putnam,2023,172
+Tennessee,Roane,2023,176
+Tennessee,Sevier,2023,243
+Tennessee,Shelby,2023,182
+Tennessee,Sullivan,2023,181
+Tennessee,Sumner,2023,181
+Tennessee,Williamson,2023,121
+Tennessee,Wilson,2023,122
+Texas,Atascosa,2023,166
+Texas,Bell,2023,181
+Texas,Bexar,2023,182
+Texas,Bowie,2023,137
+Texas,Brazoria,2023,181
+Texas,Brazos,2023,164
+Texas,Brewster,2023,233
+Texas,Cameron,2023,181
+Texas,Collin,2023,172
+Texas,Dallas,2023,182
+Texas,Denton,2023,181
+Texas,Ector,2023,210
+Texas,El Paso,2023,182
+Texas,Ellis,2023,166
+Texas,Galveston,2023,178
+Texas,Gregg,2023,181
+Texas,Harris,2023,182
+Texas,Harrison,2023,176
+Texas,Hidalgo,2023,173
+Texas,Hood,2023,178
+Texas,Hunt,2023,181
+Texas,Jefferson,2023,181
+Texas,Johnson,2023,177
+Texas,Karnes,2023,178
+Texas,Kaufman,2023,181
+Texas,Kleberg,2023,195
+Texas,Lubbock,2023,212
+Texas,Maverick,2023,172
+Texas,McLennan,2023,182
+Texas,Montgomery,2023,181
+Texas,Navarro,2023,180
+Texas,Nueces,2023,212
+Texas,Orange,2023,181
+Texas,Parker,2023,179
+Texas,Polk,2023,207
+Texas,Potter,2023,212
+Texas,Randall,2023,211
+Texas,Rockwall,2023,177
+Texas,Smith,2023,181
+Texas,Tarrant,2023,182
+Texas,Travis,2023,182
+Texas,Victoria,2023,205
+Texas,Webb,2023,182
+Texas,Wilson,2023,124
+Utah,Box Elder,2023,176
+Utah,Cache,2023,273
+Utah,Carbon,2023,271
+Utah,Davis,2023,273
+Utah,Duchesne,2023,273
+Utah,Grand,2023,139
+Utah,Iron,2023,273
+Utah,Salt Lake,2023,274
+Utah,San Juan,2023,229
+Utah,Tooele,2023,273
+Utah,Uintah,2023,273
+Utah,Utah,2023,273
+Utah,Washington,2023,273
+Utah,Weber,2023,273
+Vermont,Bennington,2023,180
+Vermont,Chittenden,2023,182
+Vermont,Rutland,2023,181
+Virginia,Albemarle,2023,180
+Virginia,Arlington,2023,274
+Virginia,Bristol City,2023,82
+Virginia,Caroline,2023,121
+Virginia,Carroll,2023,29
+Virginia,Charles,2023,181
+Virginia,Chesterfield,2023,169
+Virginia,Fairfax,2023,274
+Virginia,Fauquier,2023,121
+Virginia,Frederick,2023,210
+Virginia,Giles,2023,208
+Virginia,Hampton City,2023,274
+Virginia,Hanover,2023,122
+Virginia,Henrico,2023,272
+Virginia,Hopewell City,2023,32
+Virginia,Loudoun,2023,209
+Virginia,Lynchburg City,2023,90
+Virginia,Madison,2023,212
+Virginia,Norfolk City,2023,273
+Virginia,Prince Edward,2023,210
+Virginia,Prince William,2023,181
+Virginia,Richmond City,2023,272
+Virginia,Roanoke,2023,274
+Virginia,Rockbridge,2023,122
+Virginia,Rockingham,2023,212
+Virginia,Salem City,2023,91
+Virginia,Stafford,2023,186
+Virginia,Suffolk City,2023,122
+Virginia,Virginia Beach City,2023,180
+Virginia,Wythe,2023,121
+Washington,Adams,2023,181
+Washington,Asotin,2023,175
+Washington,Benton,2023,181
+Washington,Chelan,2023,181
+Washington,Clallam,2023,181
+Washington,Clark,2023,181
+Washington,Columbia,2023,212
+Washington,Cowlitz,2023,181
+Washington,Franklin,2023,156
+Washington,Garfield,2023,181
+Washington,Grant,2023,181
+Washington,Grays Harbor,2023,181
+Washington,Jefferson,2023,175
+Washington,King,2023,182
+Washington,Kitsap,2023,170
+Washington,Kittitas,2023,181
+Washington,Lewis,2023,177
+Washington,Mason,2023,179
+Washington,Okanogan,2023,181
+Washington,Pierce,2023,181
+Washington,Skagit,2023,181
+Washington,Snohomish,2023,181
+Washington,Spokane,2023,181
+Washington,Stevens,2023,181
+Washington,Thurston,2023,174
+Washington,Walla Walla,2023,181
+Washington,Whatcom,2023,181
+Washington,Whitman,2023,181
+Washington,Yakima,2023,181
+West Virginia,Berkeley,2023,138
+West Virginia,Brooke,2023,181
+West Virginia,Cabell,2023,140
+West Virginia,Greenbrier,2023,119
+West Virginia,Hancock,2023,181
+West Virginia,Harrison,2023,53
+West Virginia,Kanawha,2023,178
+West Virginia,Marion,2023,59
+West Virginia,Marshall,2023,180
+West Virginia,Monongalia,2023,139
+West Virginia,Ohio,2023,140
+West Virginia,Tucker,2023,210
+West Virginia,Wood,2023,140
+Wisconsin,Ashland,2023,181
+Wisconsin,Brown,2023,181
+Wisconsin,Columbia,2023,96
+Wisconsin,Dane,2023,181
+Wisconsin,Dodge,2023,182
+Wisconsin,Door,2023,96
+Wisconsin,Eau Claire,2023,181
+Wisconsin,Fond du Lac,2023,96
+Wisconsin,Forest,2023,179
+Wisconsin,Grant,2023,181
+Wisconsin,Jackson,2023,181
+Wisconsin,Jefferson,2023,96
+Wisconsin,Kenosha,2023,182
+Wisconsin,Kewaunee,2023,96
+Wisconsin,La Crosse,2023,168
+Wisconsin,Manitowoc,2023,96
+Wisconsin,Marathon,2023,96
+Wisconsin,Milwaukee,2023,182
+Wisconsin,Monroe,2023,181
+Wisconsin,Outagamie,2023,181
+Wisconsin,Ozaukee,2023,181
+Wisconsin,Racine,2023,96
+Wisconsin,Rock,2023,96
+Wisconsin,Sauk,2023,181
+Wisconsin,Sheboygan,2023,96
+Wisconsin,Taylor,2023,211
+Wisconsin,Vilas,2023,172
+Wisconsin,Walworth,2023,96
+Wisconsin,Waukesha,2023,181
+Wyoming,Albany,2023,212
+Wyoming,Big Horn,2023,177
+Wyoming,Campbell,2023,181
+Wyoming,Carbon,2023,181
+Wyoming,Converse,2023,182
+Wyoming,Fremont,2023,181
+Wyoming,Johnson,2023,180
+Wyoming,Laramie,2023,182
+Wyoming,Lincoln,2023,181
+Wyoming,Natrona,2023,181
+Wyoming,Park,2023,212
+Wyoming,Platte,2023,181
+Wyoming,Sheridan,2023,181
+Wyoming,Sublette,2023,211
+Wyoming,Sweetwater,2023,212
+Wyoming,Teton,2023,244
+Wyoming,Uinta,2023,181
+Wyoming,Weston,2023,181
